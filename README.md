@@ -46,5 +46,5 @@ Instruction on using EC3 instance to run docker containers
 - ssh to EC2 instance 
 - Run the docker run command to build the containers on top of docker images stored in Amazon ECR
 
-
+.
 
